@@ -1,0 +1,4 @@
+_cache/
+_screen_state.json
+__pycache__/
+*.pyc
